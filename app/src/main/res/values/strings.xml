@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InsurWallet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="phone_number_empty">手机号码不能为空</string>
+    <string name="phone_number_length_error">手机号码长度为11位,请重新输入</string>
+    <string name="pwd_empty">密码为空,请输入后再重试</string>
+    <string name="pwd_not_long">密码长度为8-15位,请检查后重新输入</string>
+    <string name="phone_number_error">不是一个正确的手机号码,请重新输入</string>
+    <string name="network_error">网络无连接，请检查后再重试.</string>
+
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+    <string name="error_network">搜索失败,请检查网络连接！</string>
+    <string name="error_key">key验证无效！</string>
+    <string name="error_other">未知错误，请稍后重试！</string>
+
+    <string name="net_error">网络异常</string>
+    <string name="post_error">请求失败,请重试</string>
+    <string name="loading">加载中...</string>
+</resources>
